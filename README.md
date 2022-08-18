@@ -9,4 +9,3 @@ I used semantic HTML identifiers in my HTMl code.
 
 ## Screenshot 
 ![This is the screenshot of the challenge](https://user-images.githubusercontent.com/110427818/185466482-eaaec1ee-ce2c-4c88-8dd5-7f9c028f46ec.png)
-()
